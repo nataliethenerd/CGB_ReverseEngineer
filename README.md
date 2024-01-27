@@ -8,6 +8,8 @@ Gerbers soon tm
 
 ORDER AT 1mm and ENIG 
 
+[interactive BOM](https://nataliethenerd.github.io/cgb.html)
+
 ### Follow me!
 [Twitter](https://twitter.com/natalie_thenerd)
 

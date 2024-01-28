@@ -8,6 +8,8 @@ Gerbers soon tm
 
 ORDER AT 1mm and ENIG 
 
+![Scans](https://github.com/nataliethenerd/CGB_ReverseEngineer/blob/main/Image_20240127_0002.png)
+
 [interactive BOM](https://nataliethenerd.github.io/cgb.html)
 
 ### Follow me!

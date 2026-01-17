@@ -5,7 +5,6 @@ Scans of the original PCB can be found on my [Wiki](https://wiki.nataliethenerd.
 
 Share the Wiki with your friends, it encourages me share more
 
-![alt text](image.png)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L12T33R)
 # PCBWay order link
